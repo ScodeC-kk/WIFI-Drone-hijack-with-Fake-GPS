@@ -12,10 +12,6 @@ Information and Network Security (IT114104) Final Year Project ( Grade A )
 <img src="https://raw.githubusercontent.com/SunnyChan-code/WIFI-Drone-hijack-with-Fake-GPS/main/README_IMAGE/step.png" width="80%"></img> 
 
 
-## Collaborators
-* **Alex Wong**     - *WIFI WPA/WPA2 hacking , Fake GPS and crack password*
-* **Cherry Zhang**  - *ROS (Parrot Bebop 2,DJI Tello) to take off , land down , take camera and open drone folder*
-* **Sunny Chan**     - *Main program , GUI deskgn , WIFI connection and server tools* - [Github](https://github.com/SunnyChan-code)
 
 ## Getting Started
 These instructions will provide you with a copy of the project running and running on your local computer for development and testing. For notes on how to deploy the project on a real-time system, see deployment.
