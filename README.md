@@ -1,11 +1,6 @@
 # WIFI-Drone-hijack-with-Fake-GPS
 WPA2/WPA WIFI Drone hijack control by ROS with hackrf one fake GPS
 
-## About The Project
-
-Hong Kong Institute of Vocational Education (Chai Wan)
-
-Information and Network Security (IT114104) Final Year Project ( Grade A )
 
 ### Step 
 
